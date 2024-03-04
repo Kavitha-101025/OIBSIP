@@ -1,1 +1,1 @@
-  web developmwnt and designing
+  web development and designing
