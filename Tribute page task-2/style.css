@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #a8b6ba;
+
+}
+main{
+    max-width: 50cm;
+    margin: 5%;
+    padding: 5%;
+    background-color: azure;
+
+}
+
+#title{
+    font-size: 40px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+img{
+    display: inline-block;
+    width: 100%;
+}
+#tribute-data{
+    background-color: black;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0);
+    font-family: Georgia;
+    font-size: medium;
+    padding: 20px;
+    margin: 11px;
+    margin-top: 50px;
+}
+h2.title-a{
+    font-size: 7px;
+    color: black;
+    text-align: center;
+    text-shadow: 5px 5px black;
+
+}
+#tribute-link{
+    text-decoration: none;
+    color: black;
+}
+
+
+
